@@ -1,8 +1,0 @@
-{
-  "files.associations": {
-    "*.mdx": "markdown"
-  },
-  "yaml.schemas": {
-    "https://json.schemastore.org/github-action.json": "file:///Users/zavbala/Desktop/nebula/.github/workflows/deploy.yaml"
-  }
-}
